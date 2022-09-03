@@ -10,7 +10,10 @@
  <h2> Processo </h2>
  <h3>Construído com:</h3>
  <ul>
- <li>Styled components;</li>
+ <li>React;</li>
+ <li>Typescript;</li>
+ <li><a href="https://styled-components.com/">Styled components</a>;</li>
+ <li><a href="https://styled-icons.dev/">Styled icons</a>;</li>
  </ul>
  <h3>Aprendizado:</h3>
  <ul>
