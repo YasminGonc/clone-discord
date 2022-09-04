@@ -45,10 +45,55 @@ export const UserData = styled.div`
     }
 `;
 
-export const Icons = styled.div``;
+export const Icons = styled.div`
+    display: flex;
+    
+    > svg:not(:first-child) {
+        margin-left: 7px;
+    }
+`;
 
-export const MicIcon = styled(Mic)``;
+export const MicIcon = styled(Mic)`
+    width: 20px;
+    height: 20px;
 
-export const HeadphoneIcon = styled(Headset)``;
+    color: var(--white);
+    opacity: .7;
+    cursor: pointer;
 
-export const SettingsIcon = styled(Settings)``;
+    transition: opcacity .2s;
+
+    &:hover {
+        opacity: 1;
+    }
+`;
+
+export const HeadphoneIcon = styled(Headset)`
+    width: 20px;
+    height: 20px;
+
+    color: var(--white);
+    opacity: .7;
+    cursor: pointer;
+
+    transition: opcacity .2s;
+
+    &:hover {
+        opacity: 1;
+    }
+`;
+
+export const SettingsIcon = styled(Settings)`
+    width: 20px;
+    height: 20px;
+
+    color: var(--white);
+    opacity: .7;
+    cursor: pointer;
+
+    transition: opcacity .2s;
+
+    &:hover {
+        opacity: 1;
+    }
+`;
