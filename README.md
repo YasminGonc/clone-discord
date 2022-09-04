@@ -3,7 +3,6 @@
 <div>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img src="https://img.shields.io/badge/-Em%20constru%C3%A7%C3%A3o-brightgreen">
  </div>
  Clone da interface do Discord produzido com o objetivo de dar os primeiros passos com aplicações React.
  
